@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rsaTest", "rsaTest.vcxproj", "{2B3D6F20-D4A7-4641-AD7F-D4F1112478F7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "librsa", "librsa\librsa.vcxproj", "{57131383-2430-4268-AF57-CD5C644375E0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test_librsa", "test_librsa\test_librsa.vcxproj", "{3985CA8D-CFE2-49C7-8CA9-9DAAC6A2C8A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B3D6F20-D4A7-4641-AD7F-D4F1112478F7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2B3D6F20-D4A7-4641-AD7F-D4F1112478F7}.Debug|Win32.Build.0 = Debug|Win32
+		{2B3D6F20-D4A7-4641-AD7F-D4F1112478F7}.Release|Win32.ActiveCfg = Release|Win32
+		{2B3D6F20-D4A7-4641-AD7F-D4F1112478F7}.Release|Win32.Build.0 = Release|Win32
+		{57131383-2430-4268-AF57-CD5C644375E0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{57131383-2430-4268-AF57-CD5C644375E0}.Debug|Win32.Build.0 = Debug|Win32
+		{57131383-2430-4268-AF57-CD5C644375E0}.Release|Win32.ActiveCfg = Release|Win32
+		{57131383-2430-4268-AF57-CD5C644375E0}.Release|Win32.Build.0 = Release|Win32
+		{3985CA8D-CFE2-49C7-8CA9-9DAAC6A2C8A4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3985CA8D-CFE2-49C7-8CA9-9DAAC6A2C8A4}.Debug|Win32.Build.0 = Debug|Win32
+		{3985CA8D-CFE2-49C7-8CA9-9DAAC6A2C8A4}.Release|Win32.ActiveCfg = Release|Win32
+		{3985CA8D-CFE2-49C7-8CA9-9DAAC6A2C8A4}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
